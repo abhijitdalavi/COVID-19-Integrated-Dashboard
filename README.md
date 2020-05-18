@@ -11,3 +11,4 @@
     * Drupal 8
     * JavaScript
     * Natural Language ToolKit (Python)
+    * Telegram's Bot API
